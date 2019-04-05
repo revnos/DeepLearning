@@ -20,7 +20,7 @@ Qiang Liu, Shu Wu, Liang Wang, Tieniu Tan (AAAI-16)
 ### 0. Preprocessing
 If you use (`prepro_xxx_50.txt`), you do not need to preprocess.  
 If you want to perform personally or modify the source,
-[Gowalla](http://snap.stanford.edu/data/loc-gowalla_totalCheckins.txt.gz) is required at `../dataset/`.
+[Gowalla](http://snap.stanford.edu/data/loc-gowalla_totalCheckins.txt.gz) is required at `../`.
 ```bash
 $ python preprocess.py
 ```
