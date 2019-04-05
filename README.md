@@ -12,8 +12,8 @@ Qiang Liu, Shu Wu, Liang Wang, Tieniu Tan (AAAI-16)
 (recall@10000:  0.07866900175131349)  
 
 ## Requirements
-1.python 3.5  
-2.pytorch 0.4.0
+1.python 3.6
+2.pytorch 1.0.1
 
 ## Usage
 
